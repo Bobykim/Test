@@ -27,13 +27,13 @@
 
 Например:
 
-![Зиверт](https://avatars.mds.yandex.net/i?id=0ea405571daaee5111e6b02217665af2eea127ed-4322260-images-thumbs&n=13)
+![Зиверт](https://avatars.mds.yandex.net/i?id=9c7f5bebfe2956fb34d75973d756fd31-5877211-images-thumbs&n=13&exp=1)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](mando.webp)
+![Мандалорец](https://cf.shopee.co.id/file/0498467fefbb56d929c2118bf15cc92d)
 
 
 ## Ссылки 
