@@ -33,7 +33,7 @@
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](https://avatars.mds.yandex.net/i?id=2d1c8d4a7c09a6f4657f413c0aaf125d67780bfe-8199955-images-thumbs&n=13&exp=1g)
+![Мандалорец](https://cf.shopee.co.id/file/0498467fefbb56d929c2118bf15cc92d)
 
 
 ## Ссылки 
