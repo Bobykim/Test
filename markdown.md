@@ -10,10 +10,12 @@
 
 ## Списки 
 
+Нумероанные списки просто нумеруем:
 Нумерованные списки просто нумеруем:
 1. Первый
 2. Второй
 3. Третий
+3. 
 
 Не нумерованные списки выделяем (*) или (+). Вот так
 * Элемент 1
@@ -33,13 +35,13 @@
 
 Например:
 
-![Зиверт](https://avatars.mds.yandex.net/i?id=23623b6ab2712970c4264d71d124be121bf9503a-8261187-images-thumbs&n=13&exp=1)
+![Зиверт](https://starpri.ru/wp-content/uploads/2019/02/zivert-pevitsa.png)
 
 
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Дартвейдер](https://s3.wi-fi.ru/cp3o/bd5auyedq24b4qy70t7aref4qs2c?response-content-type=image%2Fjpeg)
+![Астик](https://www.timeout.ru/wp-content/uploads/2020/10/6-15.jpg)
 
 
 ## Ссылки 
