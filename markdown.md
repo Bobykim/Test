@@ -33,7 +33,7 @@
 Второй вариант ссылка на реальное изображение с указанием локального адреса.
 Например:
 
-![Мандалорец](https://cf.shopee.co.id/file/0498467fefbb56d929c2118bf15cc92d)
+![Дартвейдер](https://s3.wi-fi.ru/cp3o/bd5auyedq24b4qy70t7aref4qs2c?response-content-type=image%2Fjpeg)
 
 
 ## Ссылки 
