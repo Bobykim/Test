@@ -78,9 +78,9 @@ I get 10 times more traffic from [Google][1] than from
 Наименование      | Стоимость | Количество
 Наименование      | Стоимость | Количество
 :-------- |:-----:| -------:
-Samsung  | 1600  | 1
-Xiaomi     | 110    | 8
-Honor      | 120     | 5
+Ipod  | 1600  | 1
+Iphone     | 110    | 8
+Macbook      | 160     | 5
 
 
 ## Цитаты
